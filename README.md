@@ -10,6 +10,6 @@ A school project consisting of a web page with:
 ![Index page](index.png)
 
 # Home
-Here I display the games
+Here I display the games. There is a cool preview animation if you hover on the game tiles!!!
 
 ![HOme page](home.png)
